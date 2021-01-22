@@ -1,0 +1,9 @@
+C:\Users\joris\source\repos\IChoosrWebApp.Models\bin\Debug\netcoreapp3.1\IChoosrWebApp.Models.deps.json
+C:\Users\joris\source\repos\IChoosrWebApp.Models\bin\Debug\netcoreapp3.1\IChoosrWebApp.Models.dll
+C:\Users\joris\source\repos\IChoosrWebApp.Models\bin\Debug\netcoreapp3.1\IChoosrWebApp.Models.pdb
+C:\Users\joris\source\repos\IChoosrWebApp.Models\obj\Debug\netcoreapp3.1\IChoosrWebApp.Models.csprojAssemblyReference.cache
+C:\Users\joris\source\repos\IChoosrWebApp.Models\obj\Debug\netcoreapp3.1\IChoosrWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\joris\source\repos\IChoosrWebApp.Models\obj\Debug\netcoreapp3.1\IChoosrWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\joris\source\repos\IChoosrWebApp.Models\obj\Debug\netcoreapp3.1\IChoosrWebApp.Models.AssemblyInfo.cs
+C:\Users\joris\source\repos\IChoosrWebApp.Models\obj\Debug\netcoreapp3.1\IChoosrWebApp.Models.dll
+C:\Users\joris\source\repos\IChoosrWebApp.Models\obj\Debug\netcoreapp3.1\IChoosrWebApp.Models.pdb
